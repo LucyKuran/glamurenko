@@ -128,6 +128,7 @@ main img:first-of-type:not(.container > img) {
     height: auto;
 }
 
+/* THE RED НОВИНКА ON THE LEFT */
 .red-thingie {
     overflow: hidden; /* required */
     position: relative; 
@@ -158,6 +159,8 @@ main img:first-of-type:not(.container > img) {
     }
 }
 
+
+/* TABLE */
 .table-order {
     width: 70%;
     background-color: yellow;
@@ -201,7 +204,7 @@ main img:first-of-type:not(.container > img) {
     padding: 5px 10px;
 }
 
-
+/* PACKAGES */
 .border {
     border-width: 3px !important;
 }
@@ -253,6 +256,8 @@ main img:first-of-type:not(.container > img) {
 }
 .package > div:last-of-type {font-size: 20px;}
 
+
+/* SCREENSHOTS */
 #gallery img {
     width: 200px;
     height: 326px;
